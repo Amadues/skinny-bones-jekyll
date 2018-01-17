@@ -1,6 +1,16 @@
 # Site navigation links
 
-- title:
-  url:
-  excerpt:
-  image:
+- title: 文章
+  url: /posts/rwd
+  excerpt: 学习笔记
+  image: 牧濑posts.jpg
+  
+  - title: 信息可视化作品
+  url: /infovis/
+  excerpt: “可视化就是可以为所欲为”
+  image: 牧濑infovis.gif
+  
+  - title: Web作品集
+  url: /portfolio/
+  excerpt: 好好的做个网页
+  image: 牧濑web.jpg
