@@ -6,7 +6,7 @@
    Typography variables
    ========================================================================== */
 
-$base-font                   	: Georgia,Times,"Times New Roman",serif;
+$base-font                   	: Kai,Kaiti SC,KaiTi,DFKai-SB,BiauKai,\\6977\4F53,\\6977\4F53_GB2312,Songti SC,Georgia,Times,"Times New Roman",serif;
 $heading-font                	: "Helvetica Neue","Segoe UI",Arial,sans-serif;
 $caption-font                	: $base-font;
 $code-font                   	: monospace;
@@ -80,10 +80,10 @@ $form-font-size              	: $doc-font-size;
    Sliding menu navigation variables
    ========================================================================== */
 
-$sliding-menu-border-color	 	 : $black;
-$sliding-menu-background 		   : $black;
-$sliding-menu-color 	 		     : $white;
-$sliding-menu-background-hover : $black;
+$sliding-menu-border-color	 	 : $bwhite;
+$sliding-menu-background 		   : $bwhite;
+$sliding-menu-color 	 		     : #595959;
+$sliding-menu-background-hover : $bwhite;
 $sliding-menu-color-hover	 	   : $white;
 $sliding-menu-border   			   : 1px solid $sliding-menu-border-color;
 $button-size		         	     : 30px;
