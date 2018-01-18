@@ -1,7 +1,7 @@
 ---
 layout: article
 title:  "Tableua笔记二"
-excerpt: "Tableua可视化的笔记"
+excerpt: "Tableua可视化的笔记 纪录，关于运算符和表格"
 date:   2018-1-1 19:17:30 +0800
 categories: infovis
 image:
